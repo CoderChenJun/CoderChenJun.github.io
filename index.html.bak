@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>陈俊-个人简历</title>
+<title>陈俊个人简历</title>
 <meta name="description" content="个人简历描述">
 <meta name="keywords" content="关键词" />
 
@@ -90,7 +90,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                     	 <img src="img/icon/CoderChenJun.jpg" alt="CoderChenJun" class="img-circle icon-img">
-                        <h1>陈俊<span class="brand-heading">-个人简历</span></h1>
+                        <h1>陈俊<span class="brand-heading">个人简历</span></h1>
                         <p class="intro-text">热爱技术,更热爱生活</p>
                         <a href="#services" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
@@ -429,13 +429,14 @@
       <div class="col-md-4"> <i class="fa fa-phone fa-2x"></i>
         <p>Tel:153-5627-9968</p>
       </div>
-      
-      
-      
-      
       <hr>
       <div class="clearfix"></div>
     </div>
+    
+    
+    
+    
+<!--
     <div class="col-md-8 col-md-offset-2">
       <hr>
       <h3>给我发邮件</h3>
@@ -462,13 +463,14 @@
         <button type="submit" class="btn btn-default">确认发送</button>
       </form>
     </div>
+-->
+    
+    
+    
+    
   </div>
 </div>
 </div>
-
-
-
-
 <nav id="footer">
   <div class="container">
     <div class="pull-left fnav">
