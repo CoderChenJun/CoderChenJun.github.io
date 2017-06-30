@@ -90,7 +90,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                     	 <img src="img/icon/CoderChenJun.jpg" alt="CoderChenJun" class="img-circle icon-img">
-                        <h1>陈俊<span class="brand-heading">个人简历</span></h1>
+                        <h1>陈俊<span class="brand-heading"> 个人简历</span></h1>
                         <p class="intro-text">热爱技术,更热爱生活</p>
                         <a href="#services" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
@@ -436,7 +436,7 @@
     
     
     
-<!--
+
     <div class="col-md-8 col-md-offset-2">
       <hr>
       <h3>给我发邮件</h3>
@@ -463,7 +463,7 @@
         <button type="submit" class="btn btn-default">确认发送</button>
       </form>
     </div>
--->
+
     
     
     
@@ -480,7 +480,7 @@
       <ul class="footer-social">
         <li><a href="https://github.com/CoderChenJun">  <i class="fa fa-github fa-2x"></i>  </a></li>
         <li><a href="http://git.oschina.net/CoderChenJun">  <i class="fa fa-git fa-2x"></i>  </a></li>
-	    	<li><a href="http://weibo.com/3751335675/profile?rightmod=1&wvr=6&mod=personinfo">  <i class="fa fa-weibo fa-2x"></i>  </a></li>
+	    	<li><a href="http://weibo.com/3751335675">  <i class="fa fa-weibo fa-2x"></i>  </a></li>
       </ul>
     </div>
   </div>
