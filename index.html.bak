@@ -92,7 +92,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                     	 <img src="img/icon/CJLOGO_B.png" alt="CoderChenJun" class="img-circle icon-img">
-                        <h1>陈俊<span class="brand-heading"> 个人简历</span></h1>
+                        <h1>陈俊_<span class="brand-heading">_个人简历</span></h1>
                         <p class="intro-text">热爱技术,更热爱生活</p>
                         
                         <a href="#services" class="btn btn-circle page-scroll">
@@ -245,6 +245,8 @@
           </div>
         </div>
 
+
+<!--
         <div class="col-sm-6 col-md-3 col-lg-3 web">
           <div class="portfolio-item">
             <div class="hover-bg">
@@ -268,6 +270,9 @@
               <img src="img/portfolio/03.jpg" class="img-responsive" alt="百度网盘"></div>
           </div>
         </div>
+-->        
+        
+        
 
         <div class="col-sm-6 col-md-3 col-lg-3 client app web">
               <img src="img/portfolio/MORE.png" class="img-responsive" alt="MORE">
